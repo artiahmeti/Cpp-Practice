@@ -11,8 +11,9 @@ A compilation of C++ practice programs, algorithms, and data structure implement
 | `3.cpp` | OOP Encapsulation basics using C++ class, private attributes, and getter/setter methods |
 | `4.cpp` | Array iteration using Pointer Arithmetic (`*(ptr + i)`) and memory addresses |
 | `5.cpp` | Function parameters with pointers (Pass-by-Pointer) to return multiple values |
-| `Stack.cpp` | LIFO Stack operations using `std::stack` (push, pop, top, empty, size) |
-| `Vectors.cpp` | Dynamic array operations using `std::vector` (indexing, front/back, loops, and element modification) |
+| `6.cpp` | LIFO Stack operations using `std::stack` (push, pop, top, empty, size) |
+| `7.cpp` | Dynamic array operations using `std::vector` (indexing, front/back, loops, and element modification) |
+| `8.cpp` | Parentheses nesting level tracking using `std::stack` and `std::vector` (maximum depth calculation) |
 
 ## 🛠️ Built With
 
